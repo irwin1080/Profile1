@@ -1,0 +1,22 @@
+
+body{
+  text-align: center;
+  font-family: Arial;
+  background: #00ff00 url("background.jpg");
+  background-position: center;
+}
+
+p {
+  color:white;
+  font-size: 18px;
+}
+
+h1{
+  color: white;
+  padding-bottom: 25px;
+}
+
+h3{
+  color: white;
+  padding-top: 25px;
+}
